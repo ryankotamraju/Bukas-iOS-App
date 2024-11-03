@@ -1,4 +1,4 @@
-This iOS application is designed to help children from the Virlanie Foundation practice basic arithmetic skills. It provides exercises in addition, subtraction, and multiplication, encouraging users to practice and improve their mathematical understanding.
+This iOS application is designed to help children from the Virlanie Foundation practice basic arithmetic skills. It provides exercises in addition, subtraction, and multiplication, encouraging users to practice and improve their mathematical understanding. The gamified experience includes step-by-step explainations for each problem in Tagalog, the users' native language, to further encourage learning.
 
 ## **Features**
 - Random Arithmetic Problems: Generates simple addition, subtraction, or multiplication problems.
