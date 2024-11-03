@@ -27,7 +27,7 @@ Xcode 12.0 or later
 
 ## Usage
 Launch the app.
-The app will display a random problem (addition, subtraction, multiplication, addition).
+The app will display a random problem (addition, subtraction, multiplication).
 Enter your answer and press "Check" to see if it's correct.
 If you need help, press the "Help" icon button to receive a hint.
 
