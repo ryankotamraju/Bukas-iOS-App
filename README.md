@@ -5,6 +5,7 @@ This iOS application is designed to help children from the Virlanie Foundation p
 - Answer Input: Users can type in their answers to each problem.
 - Answer Verification: The app checks the answer and provides feedback.
 - Assistance Option: If users need help, they can press a button to receive a hint or explanation.
+- Tagalog-Friendly Assistance: Hints are designed for tagalog-speakers, allowing ease of understanding for the target user.
 - User-Friendly Interface: Designed with simplicity and ease of use, making it accessible for young learners.
 - Gamified experience: The current streak of correct answers is monitored, with the high score on the device tracked.
 
